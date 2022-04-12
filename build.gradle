@@ -33,7 +33,7 @@ dependencies {
 
 application {
     // Define the main class for the application.
-    mainClass = 'lab10.csci2020u_lab10.server.Main_Server'
+    mainClass = 'lab10.csci2020u_lab10.client.Main_Client'
 }
 
 tasks.named('test') {
